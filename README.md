@@ -1,3 +1,14 @@
+This is codes from udemy course - AWS Amplify Studio Masterclass
+https://gale.udemy.com/course/aws-amplify-studio-masterclas
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
